@@ -10,4 +10,7 @@ public class Candy {
 
     // There may be instance variables, constructors, and methods that are not
     // shown.
+    public String toString() {
+        return flavor;
+    }
 }
